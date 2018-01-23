@@ -1,0 +1,390 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: aY0H+CdlaGx43Q/QvVE7ZXWJ1pG0f
+ aIdCZ1vlnQp280=
+SHA-256-Digest-Manifest: YqEm6UTM2COttT13JmdIwHbxyJ7gvGZ8mgi7Dri+POs=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: com/sun/jdi/InvocationException.class
+SHA-256-Digest: mRQRtpedpcAAhScW1hNbSvVcRkEZgOWxDc7s85tacKY=
+
+Name: com/sun/jdi/CharValue.class
+SHA-256-Digest: AahKkKeOth4gY6f8pk2oHq/ouy8P/Jg0KF/cQdgu+bA=
+
+Name: com/sun/jdi/ArrayType.class
+SHA-256-Digest: 4XlhNcYgyUL5bK6lkFnA65FiZ49o9xql1M9bpClLp9Q=
+
+Name: com/sun/jdi/request/MonitorContendedEnteredRequest.class
+SHA-256-Digest: rAYwpJyK5APgmXyQ3MTCxdMwmupYViA8oIwdvFPR20A=
+
+Name: com/sun/jdi/Mirror.class
+SHA-256-Digest: PrYNW0lQ9PGfeytj3Y/C2SWwr42ogDKtzJYTYRlleFA=
+
+Name: com/sun/jdi/connect/spi/Connection.class
+SHA-256-Digest: sUUk7b1YAeGu8J9W4DxxMTMmgVFCs2ZAv8fI4nsGC/I=
+
+Name: com/sun/jdi/event/VMDisconnectEvent.class
+SHA-256-Digest: Va8cu7q6Ab3zbvH4eSjCuEH9gBwTnJrDkyx0Hu21lJw=
+
+Name: com/sun/jdi/request/ThreadStartRequest.class
+SHA-256-Digest: Hheo5JmxY8+zmKmQKjHKorwVIczOx0vcVqocNYq/ks8=
+
+Name: com/sun/jdi/StackFrame.class
+SHA-256-Digest: qYkGAXZ07UdfZn5EeoqE+wPYwadxTlVxyFmim5078tI=
+
+Name: com/sun/jdi/connect/Connector$IntegerArgument.class
+SHA-256-Digest: GgbyntWCnMYEoP+EJuY9VUABG5qHQFK1UuiIAEamk6M=
+
+Name: com/sun/jdi/request/InvalidRequestStateException.class
+SHA-256-Digest: xEVTQbuoDC2kbzNnHLLQtN8PSDgKbSHemm7usYeOgdY=
+
+Name: com/sun/jdi/request/MonitorContendedEnterRequest.class
+SHA-256-Digest: rO+ApJ2SvuQxehp74WqdVeeaUOEn4VuifXuhs34uGVA=
+
+Name: com/sun/jdi/connect/VMStartException.class
+SHA-256-Digest: XREDxahZa8sfDYQ0vqeVqAaX6MXIhbQ43uka1DzTkFM=
+
+Name: com/sun/jdi/DoubleValue.class
+SHA-256-Digest: eaGnEHKRlmRQW3uYYdRnUoClThatDjA1LndNDtMY10A=
+
+Name: com/sun/jdi/request/ModificationWatchpointRequest.class
+SHA-256-Digest: 4QJieawE+inI/UGUo65PGu2EmDXnQ51v/KosdkBsiBU=
+
+Name: com/sun/jdi/connect/IllegalConnectorArgumentsException.class
+SHA-256-Digest: Twu7drBYtPRVq5KuMesxh1ALO5Qs1w2shTvekrgcwtQ=
+
+Name: com/sun/jdi/BooleanValue.class
+SHA-256-Digest: pJCl+u3WaAeGlA5CzuazTLszB/8DWEu0DT2VzfqpPlM=
+
+Name: com/sun/jdi/event/AccessWatchpointEvent.class
+SHA-256-Digest: G05NbZvD/VAUZ8XCouLaCBCj0vTkVV1i2UzbIxIFf5k=
+
+Name: com/sun/jdi/request/EventRequestManager.class
+SHA-256-Digest: 7V4PO0GSLsU4iIJVxSdfEpr/qYSA76lbLELY/GubrC8=
+
+Name: com/sun/jdi/event/EventIterator.class
+SHA-256-Digest: 68DTyMUuNB+eJCknhAgHbdlAxnD9ioSDrmVAM3Ml2tM=
+
+Name: com/sun/jdi/VMMismatchException.class
+SHA-256-Digest: ChWmZtEQac2FlcI/040/cPWt4qGcSiTOapwnY4pI2fM=
+
+Name: com/sun/jdi/Locatable.class
+SHA-256-Digest: /x0UwE2r+M1kV5MpBi8uzQB7K9+ha2ba0rpUOrIaU1E=
+
+Name: com/sun/jdi/FloatType.class
+SHA-256-Digest: CuzGUaDhEoYexSMr4DL272Qmh8pjW9Vk6HvPqb6LjIY=
+
+Name: com/sun/jdi/event/VMDeathEvent.class
+SHA-256-Digest: QXEGovX/BWbi3iVUQj3f2AgAP1Rnq0sXJtpQixBz110=
+
+Name: com/sun/jdi/InvalidStackFrameException.class
+SHA-256-Digest: V2oZXfmWGJvFcQlf8w7TrR/h6udUW4JHOHoK72hzpG0=
+
+Name: com/sun/jdi/ShortType.class
+SHA-256-Digest: Yqq122b6CGBTIoyUTMdAREEBbEK+iPw1GicOtbWtQTY=
+
+Name: com/sun/jdi/InternalException.class
+SHA-256-Digest: EReK9Kr27m+l/6D6cI5FFHKqoX8RIzcnvNt8TzUWY/8=
+
+Name: com/sun/jdi/connect/spi/TransportService.class
+SHA-256-Digest: Pl7CwVFN+pfPRao0XnJYWAtAvDEcjq5MfahY4vh1n3Q=
+
+Name: com/sun/jdi/request/WatchpointRequest.class
+SHA-256-Digest: Dw70s6uDUQdgvoFOavaYZItdTcnkG9cjnVciH2ZOJhM=
+
+Name: com/sun/jdi/ThreadReference.class
+SHA-256-Digest: 3P+pxNmDTsxzK1EJoX/AGBzy2HTDw/ibMX71rHccrjc=
+
+Name: com/sun/jdi/Method.class
+SHA-256-Digest: zMigsWJlVs3juFP7Q5NPRR8YBsTBbX5P1iE6DvuprXk=
+
+Name: com/sun/jdi/ObjectReference.class
+SHA-256-Digest: OqxzyNW+UU/BZdOTeX8aJ6WRbQWtLYOM8KrFM3Y2z+w=
+
+Name: com/sun/jdi/request/StepRequest.class
+SHA-256-Digest: e/WMUUT1gU1O3ZdECu0bv68c3d7wQV4/Rae8gvD+Hag=
+
+Name: com/sun/jdi/VMDisconnectedException.class
+SHA-256-Digest: PWYrcL8/P0je6KDS6hmtwuHW+smvFoyd271eL4KbVbQ=
+
+Name: com/sun/jdi/request/ClassUnloadRequest.class
+SHA-256-Digest: eBj0ZezwCO33lu57cnNQrK1dm6HNpm3jRz5z/Q925NY=
+
+Name: com/sun/jdi/FloatValue.class
+SHA-256-Digest: qVEiDNy6CLUX+zQOwAqf89mKRJPsVI+Vo+CfYqYC91E=
+
+Name: com/sun/jdi/InconsistentDebugInfoException.class
+SHA-256-Digest: Df0siFjGMjSTYMUbTGwX47dwIF0I4K5PiPIt1h9TYtg=
+
+Name: com/sun/jdi/LongType.class
+SHA-256-Digest: 6Y5Pd2dx9ZBRDfB+dd++LBqkacovOzm1M10bOEfBPO8=
+
+Name: com/sun/jdi/event/EventQueue.class
+SHA-256-Digest: brn+vu6kRa4JgyXTcQH1FRoW1aYPDh4eUrl34K26U4A=
+
+Name: com/sun/jdi/event/MethodEntryEvent.class
+SHA-256-Digest: o8xKPJjG+VuBvQnVlv+tuOBSYIXQvVnMWQwQNbAgAUA=
+
+Name: com/sun/jdi/InvalidTypeException.class
+SHA-256-Digest: 4NtFYQeGeTORPjrfLB85Etp8B0MRMamkY/0rG+rNlq8=
+
+Name: com/sun/jdi/VoidValue.class
+SHA-256-Digest: S5QGjx0YLnPvOqGLdu6FuFxIxLpEPNVKxPEQPnhcgKc=
+
+Name: com/sun/jdi/ReferenceType.class
+SHA-256-Digest: JvMF6owWiS3gDQbH397ci9qVFOsYH8Pas/8JLNpztO4=
+
+Name: com/sun/jdi/request/MethodEntryRequest.class
+SHA-256-Digest: okKe7uZu5CX42Qwi8LBI8N2/UrxG31xo//ahZV02S9c=
+
+Name: com/sun/jdi/event/StepEvent.class
+SHA-256-Digest: 85bOKch24c1GlukIqWyFVTQh3llvQ1v3hUWSIw0RcPo=
+
+Name: com/sun/jdi/connect/Transport.class
+SHA-256-Digest: PQe66AEH87AJG7VNwyajCYupV3vTqk/0NxFI1AgKHwM=
+
+Name: com/sun/jdi/IntegerType.class
+SHA-256-Digest: rpmj1bWD0up+Krz69HXkxWzA6sDZOW8C8hZCSQlZ/9A=
+
+Name: com/sun/jdi/connect/Connector$BooleanArgument.class
+SHA-256-Digest: eUQ9LwMxt89r8unAhH/2k7xNMBUIhNbxWwELPsKLKUc=
+
+Name: com/sun/jdi/InterfaceType.class
+SHA-256-Digest: kIuq4VHKX2mfXsZUEVu1Es/gK1dCoW7bk9v6v3NlXI0=
+
+Name: com/sun/jdi/connect/spi/ClosedConnectionException.class
+SHA-256-Digest: dje6Q86ev5/aVS2Re8zuEdc7Dc80Ic1sB4L4cdQdfLU=
+
+Name: com/sun/jdi/PrimitiveType.class
+SHA-256-Digest: sk0zlA2IvepgW7nXBcIZlDZoPrf7sXVu81dt6jdB4YM=
+
+Name: com/sun/jdi/event/ExceptionEvent.class
+SHA-256-Digest: qkJzx9qvw3mVwF68JE6WzeN4py2Ez4piO2d36wmZBFo=
+
+Name: com/sun/jdi/LocalVariable.class
+SHA-256-Digest: kbKgA12j0LVJvLsw7XgrWSRK9SMxrPz1eeujsy7zepo=
+
+Name: com/sun/jdi/ThreadGroupReference.class
+SHA-256-Digest: AYp1VSDjM/O7LYYsBwSjl8C9q5c/rT8ShEzUc4MtFZc=
+
+Name: com/sun/jdi/connect/AttachingConnector.class
+SHA-256-Digest: P8cnPbOLu/VQoIJhY+N9FOHDecs0uLDC8nlPpgl/KNs=
+
+Name: com/sun/jdi/request/ExceptionRequest.class
+SHA-256-Digest: ZzoyDCQCzmNfgwITeD54Na9vLdQHyn//mvgHztfQUOw=
+
+Name: com/sun/jdi/connect/ListeningConnector.class
+SHA-256-Digest: PjaojkTXI5wlSJoyzs+LN1U12Ykz2WvXCOrhC9e/PZA=
+
+Name: com/sun/jdi/event/LocatableEvent.class
+SHA-256-Digest: 2t1nkalUN52HkKmD9O8lGRG48F1nfGwmeRaVRkAXSFY=
+
+Name: com/sun/jdi/VMCannotBeModifiedException.class
+SHA-256-Digest: ON3j8L75q9hp0jyIbtUyupUaGfGjYobHtylhj46gUgw=
+
+Name: com/sun/jdi/DoubleType.class
+SHA-256-Digest: b7ZxqzKXCAVsQuTfFX2YFnaqZEaeOVMoYOH4n4BsrZw=
+
+Name: com/sun/jdi/ByteValue.class
+SHA-256-Digest: urT4DF+Ojw+X41F7mLWoePUiSs+76DZfMix93aCAfkw=
+
+Name: com/sun/jdi/event/ThreadDeathEvent.class
+SHA-256-Digest: NZiSh3BlLE2ToMB+j60RLnvTzagfqgjyCiByHx5Ak6o=
+
+Name: com/sun/jdi/event/MonitorWaitedEvent.class
+SHA-256-Digest: OhcCj45jWXO/NVBw7bDzXHgdiCaJBHgiTH71gizeZuU=
+
+Name: com/sun/jdi/IntegerValue.class
+SHA-256-Digest: ZIfd4Gfl6dq9hZh2CTBXvhb0PItDJsY1jZE4X17hxr0=
+
+Name: com/sun/jdi/request/AccessWatchpointRequest.class
+SHA-256-Digest: c9ApqGwuuwSDLrwXP6sn8XQT0tmahSfiVuwnM5D5suY=
+
+Name: com/sun/jdi/event/WatchpointEvent.class
+SHA-256-Digest: KodI6zQTL7FHuiaJZfXve5IG6/KOA6ZgNzfF2Fs1ERo=
+
+Name: com/sun/jdi/StringReference.class
+SHA-256-Digest: IDLr4z/c1jOFlfWawTt7EwVDYKYCcE1uRC36Y+aknes=
+
+Name: com/sun/jdi/event/MonitorContendedEnterEvent.class
+SHA-256-Digest: UVcLn/5afeQ9a2mPOhzXIV25rT8vYi0N4cAJ+fEUwD8=
+
+Name: com/sun/jdi/TypeComponent.class
+SHA-256-Digest: 9wW+kHIJCh3dQotb8N2sfSy2RNZ9OMsLgNfJ0h3d+Xw=
+
+Name: com/sun/jdi/request/ThreadDeathRequest.class
+SHA-256-Digest: KYJXk6YiSenstlbgmkZezSmzIPwbVW6T8pZrktnN1QU=
+
+Name: com/sun/jdi/Value.class
+SHA-256-Digest: eXwb844nwDn3O+3nTDUm9s34mjzl00iuzdwkaTV9ZL8=
+
+Name: com/sun/jdi/ClassType.class
+SHA-256-Digest: gfVU4K6+sqd25ViMTwYJ9DO7fFO79kaswDtGBv7eOJY=
+
+Name: com/sun/jdi/connect/spi/TransportService$ListenKey.class
+SHA-256-Digest: 62yrMCIzg865+ogLy7KXG6HwH2AmTTUL4Hv/Kzm+okY=
+
+Name: com/sun/jdi/connect/Connector$Argument.class
+SHA-256-Digest: vT3sBC5HFKBLNQJZk1FUEd/YgOsoDRqE7QkDCFHA7eo=
+
+Name: com/sun/jdi/ObjectCollectedException.class
+SHA-256-Digest: iTZQEuhCwL5pCYETpX5t4Rgbn5TfqRgEoPLJRTVMQcg=
+
+Name: com/sun/jdi/event/MonitorContendedEnteredEvent.class
+SHA-256-Digest: vlz4MoJPa+Dxu7rhHteuxqZ1GVeKD2QkHVjRW/5ww9A=
+
+Name: com/sun/jdi/Bootstrap.class
+SHA-256-Digest: TepAMSRTfQuohmWFcSHC1HH+hYn1L7KuiKHgJhUvMz4=
+
+Name: com/sun/jdi/event/Event.class
+SHA-256-Digest: fXB0OhPbuWaLKdbYxWes/45K6DhxnTgiTjGln1ejvts=
+
+Name: com/sun/jdi/Accessible.class
+SHA-256-Digest: nqnfQayddW9ax+Q7T6tKtFS2lp6rsC39rWiEGMO2YyI=
+
+Name: com/sun/jdi/CharType.class
+SHA-256-Digest: foy/aqRVfuVncFFlCWxGRx3cCBb9/jrJbaxrxOp1XVk=
+
+Name: com/sun/jdi/VMOutOfMemoryException.class
+SHA-256-Digest: m2slE7qc3BB/6xQ2FYOgmvO1dhVCrAQCVzaeITh2Qdo=
+
+Name: com/sun/jdi/event/MethodExitEvent.class
+SHA-256-Digest: 1aWhnVWYf6CQVu2wLOuSK/Yxxy4AIIQTa6e6A2HCEDA=
+
+Name: com/sun/jdi/ClassLoaderReference.class
+SHA-256-Digest: 6YD5vAqitL8w6mGfzpdpvexeghRMNg9VOsKlpVrmxIM=
+
+Name: com/sun/jdi/request/ClassPrepareRequest.class
+SHA-256-Digest: MWUGnHx3p+b5/zl5emBFvho7Qx+IsbKnuKZw9fJ1pqw=
+
+Name: com/sun/jdi/event/BreakpointEvent.class
+SHA-256-Digest: eT6NGHIuYkqm7rZxIh1UXCOonaRWICPiy1A9F76r2Gw=
+
+Name: com/sun/jdi/event/ClassUnloadEvent.class
+SHA-256-Digest: l25YSdnPCTCmywFbIMNnfcMIsTaDtvoyyvAhFhuS2mA=
+
+Name: com/sun/jdi/ShortValue.class
+SHA-256-Digest: j9BDqA8yp39DcjFyJACQw1Is01yGEbrGIxdbeJCE7oU=
+
+Name: com/sun/jdi/MonitorInfo.class
+SHA-256-Digest: Qn0hGV+5OgEHs2XMryMW3ufcgmf4WllBSKKMYVslLgM=
+
+Name: com/sun/jdi/IncompatibleThreadStateException.class
+SHA-256-Digest: pkHpXlEYaYUKN6D+Hsm45IV9J1+2mMpqBLZxYJgf+dU=
+
+Name: com/sun/jdi/event/VMStartEvent.class
+SHA-256-Digest: XvReEAVODPuS4ciz2RDGrht+EbjKXxdAiUSGqK9Pn7M=
+
+Name: com/sun/jdi/ByteType.class
+SHA-256-Digest: 6ECPQ5Mx0BDdAn6H9zFoDTxyAtpF9x8qjExEQQYICnQ=
+
+Name: com/sun/jdi/LongValue.class
+SHA-256-Digest: UgpO5eFDzQ/9uFIRYFTGhnx4oEuhi24orv3hXyDPA1I=
+
+Name: com/sun/jdi/connect/spi/TransportService$Capabilities.class
+SHA-256-Digest: N1GXCAeSeUYtT8/oIp9nRVoafaoEP2FGcZxnqSVMKtE=
+
+Name: com/sun/jdi/request/VMDeathRequest.class
+SHA-256-Digest: pe02zOWlK/4UyxZNewZ7x0cKL5PCjW1WU3dreKuCEVs=
+
+Name: com/sun/jdi/InvalidCodeIndexException.class
+SHA-256-Digest: XktsA5flHHtISAI7uXs/rI4fXWHgmgCBNU6PxvIRwac=
+
+Name: com/sun/jdi/ClassObjectReference.class
+SHA-256-Digest: +VnkO1AgociOhuXkOyAihE+3tRzSEo8ly7AheTsUWR8=
+
+Name: com/sun/jdi/event/MonitorWaitEvent.class
+SHA-256-Digest: /CwNxkCrmUUPb1pZ/UO8Tl+FR2a3HeBk6E4CJ6UTBm8=
+
+Name: com/sun/jdi/event/ModificationWatchpointEvent.class
+SHA-256-Digest: rg8jpFjQHVZ4t+XT4na2AqyYMx1l9L25ILlaywUcYGE=
+
+Name: com/sun/jdi/connect/Connector$SelectedArgument.class
+SHA-256-Digest: EW3z6PQ5+iRJmpuJ6ZZNxPyM6KIW4RFqQWqYNMdPmU0=
+
+Name: com/sun/jdi/VirtualMachineManager.class
+SHA-256-Digest: EbwexiySQw5YmqQMunuGPnLA+t/VMQFIGVtv3wKL1gQ=
+
+Name: com/sun/jdi/VoidType.class
+SHA-256-Digest: tym5HqxO9OV2p8cg/5msFOV28rzA8iIy73d2SaYr/Bs=
+
+Name: com/sun/jdi/connect/TransportTimeoutException.class
+SHA-256-Digest: LOroVxLFjtLGK+WCVBai4d1UG2k5MlllKfgIO+gOFxs=
+
+Name: com/sun/jdi/Location.class
+SHA-256-Digest: dyy3/catYvh11I29heT8Ssh1MKslBb1ekgGOYrCBtr0=
+
+Name: com/sun/jdi/Type.class
+SHA-256-Digest: 03h9zy/ncwPd2DIe0E4GNojBMqJPtBFo7EsyLl0qDqY=
+
+Name: com/sun/jdi/request/MonitorWaitRequest.class
+SHA-256-Digest: lO/1dxAVQAsvP8GVxVBwgGDXNC1rBdOa+un5xonmXUo=
+
+Name: com/sun/jdi/InvalidLineNumberException.class
+SHA-256-Digest: gxyz7wDHoCNt3Mg0caRATApotgvZKZs/Kb8fXfbudpA=
+
+Name: com/sun/jdi/BooleanType.class
+SHA-256-Digest: 6P5RxRCfXxQEbKIxaFOqge1lasFtN2RPCiKlj2o1k8Q=
+
+Name: com/sun/jdi/JDIPermission.class
+SHA-256-Digest: RZqjRQ8HCZQvF05M4MK3W/w8h6qhGz5rfFEjrfde00Y=
+
+Name: com/sun/jdi/NativeMethodException.class
+SHA-256-Digest: iDUIxw1zpbSRkCEBgYs3rRf72nkXDlZ3z3+x4RDtRr0=
+
+Name: com/sun/jdi/connect/Connector$StringArgument.class
+SHA-256-Digest: Lb6FWXzWmkeXklwKN55qrTdp3xs7XTf9bvg/kO4xk3E=
+
+Name: com/sun/jdi/PathSearchingVirtualMachine.class
+SHA-256-Digest: jzlq4GiUYuhHyl/4xHVb+29zbUnlcXkWyU76lfHHvP0=
+
+Name: com/sun/jdi/request/MonitorWaitedRequest.class
+SHA-256-Digest: Ky103vskklgl+syyMZdrDQF8EXIJQqyASMQT+w19w7Q=
+
+Name: com/sun/jdi/request/DuplicateRequestException.class
+SHA-256-Digest: kXtbTH6mUUKq25MtUYHxmp0gprtqdbrvBAsenFzFfZI=
+
+Name: com/sun/jdi/PrimitiveValue.class
+SHA-256-Digest: mWcTVcptDH9MpkV/AZAlQdNsU6o6Z2W52w3wXNCWhQY=
+
+Name: com/sun/jdi/ClassNotPreparedException.class
+SHA-256-Digest: 6VYLwxRgGbd41Yh4JGnCckC16cOa2L4+Jn8yzQMxvdk=
+
+Name: com/sun/jdi/ArrayReference.class
+SHA-256-Digest: B46ei95Tmh0t2HAaPfhUaVN9Xx+4k+c5IvGCO0Ts2eM=
+
+Name: com/sun/jdi/connect/Connector.class
+SHA-256-Digest: df1fH6FMc4fVPsINR6qMQycT0juDjx66b2Djt95+uGY=
+
+Name: com/sun/jdi/connect/LaunchingConnector.class
+SHA-256-Digest: k4PdfJqJ+v/fyY3OBxvFSbzz4ApMkW/GZDRsax5hRAE=
+
+Name: com/sun/jdi/request/EventRequest.class
+SHA-256-Digest: NmFxFVZvcdZgVF5lV1axjcBQ9HjlVgb6RZMHzB6g8ww=
+
+Name: com/sun/jdi/event/ThreadStartEvent.class
+SHA-256-Digest: kGFqragc1c65qZxpr4PPOY06QI/Wp2CmiF1Ar87SzeQ=
+
+Name: com/sun/jdi/ClassNotLoadedException.class
+SHA-256-Digest: odagWwCcW8Qw+G5N0lpIXITHYwDfP7T5eNyYijlQLhs=
+
+Name: com/sun/jdi/request/BreakpointRequest.class
+SHA-256-Digest: bGnsRm5ilMR8ZiOVvhzQfkBHBHrFVcNnCr3L+4CcMXE=
+
+Name: com/sun/jdi/event/EventSet.class
+SHA-256-Digest: EcDpGWuVl69QEHC5c8Uweq6ABFBb/p9lvW6OsrLsGLg=
+
+Name: com/sun/jdi/Field.class
+SHA-256-Digest: Q1+flDQRmPwcluxRmgwdz1A+uMEiXv7CxmfPmSqqMYI=
+
+Name: com/sun/jdi/request/MethodExitRequest.class
+SHA-256-Digest: ZGzLPiXS5asinVuemw4yqbpcS3oNz/R7fsNfN4R0JOI=
+
+Name: com/sun/jdi/AbsentInformationException.class
+SHA-256-Digest: XRDvIf3uqkLNGkU/EoiJyZBcYWBpucxpxHBWj502A1U=
+
+Name: com/sun/jdi/VirtualMachine.class
+SHA-256-Digest: JbEltJeG1Ho5XxN0Op2Md//QWtq+7G+qTJT38yxJPY8=
+
+Name: com/sun/jdi/event/ClassPrepareEvent.class
+SHA-256-Digest: b9eK1yausp56sBf/QsVNiPlYgnH0iWUWGuolLCl2t24=
+
